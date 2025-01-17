@@ -1,7 +1,5 @@
 # Mejora de Accesibilidad en Elementos de Bootstrap con WAI-ARIA
 
-Este proyecto muestra cómo mejorar la accesibilidad de elementos comunes de Bootstrap mediante la implementación de atributos WAI-ARIA.
-
 ## Elementos Mejorados
 1. **Botón**
    - Se añadió `aria-label` para describir su función.
